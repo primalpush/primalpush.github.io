@@ -1,0 +1,27 @@
+/* Global styles for primalpush, will override the fonts and colors provided by BS template */
+
+
+
+body{
+    font-family:'Montserrat', sans-serif;
+}
+
+nav.navbar a#brandprimalpush{
+    font-size:xx-large;
+    font-weight:bold;
+}
+.article-title{
+    font-family:'Montserrat', sans-serif;
+}
+
+.article-body{
+    font-family:'Raleway', sans-serif;
+}
+
+.article-href{
+    color:red;
+}
+
+.bg-dark{
+    background-color:#2b2c2d !important;
+}
